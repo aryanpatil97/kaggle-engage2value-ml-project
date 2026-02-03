@@ -76,24 +76,6 @@ These insights highlight opportunities for marketing optimization, user segmenta
 
 ---
 
-## Repository Structure
-engage2value-purchase-prediction-ml/
-│
-├── data/
-│   ├── train_data.csv
-│   ├── test_data.csv
-│   └── sample_submission.csv
-│
-├── notebooks/
-│   └── competition_notebook.ipynb
-│
-├── outputs/
-│   └── submission.csv
-│
-├── requirements.txt
-└── README.md
----
-
 ## Technologies Used
 - Python
 - Pandas & NumPy
